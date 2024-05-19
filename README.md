@@ -1,1 +1,1 @@
-# Discord-Map-bot
+Hello this is a discord bot that is made for the best experience in finding cities around the world and placing them on a map automatically at your request. There are 4 cities available as of right now with them being Moscow, LA, New York and Tokyo but more are coming.
